@@ -1,4 +1,4 @@
-# multi-object-detection-system
+# Multi Object Detection System
 >The aim of this project is to create a program using python and haarcascade.xml and openCV lib to detect (people,cars,faces,street signs,traffic signs)
 
 ## INFO :
