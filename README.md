@@ -23,8 +23,8 @@
 >Traffic sign<br/>
 <img src="https://github.com/Khalididies/Multi-Object-Detection-System/blob/main/Images/Traffic%20sign.png" width="600" height="403">
 
-## Reference : 
-https://github.com/protonon/tsaraisa
-
 ## Comments / Questions
 >You can reach me at [linkedin](https://www.linkedin.com/in/khalid-dies-195797203/)
+
+## Reference : 
+https://github.com/protonon/tsaraisa
